@@ -1,0 +1,9 @@
+{
+    "name": "ahihi/keke",
+    "autoload": {
+        "psr-4": {
+            "Ahihi\\Keke\\": "src/"
+        }
+    },
+    "require": {}
+}
